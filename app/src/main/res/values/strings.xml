@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Doctor</string>
+    <string name="title_activity_bookpage">Bookpage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string-array name="timeslot">
+        <item>09am-10am</item>
+        <item>10am-11am</item>
+        <item>11am-12am</item>
+        <item>12pm-01pm</item>
+        <item>01pm-02pm</item>
+        <item>02pm-03pm</item>
+        <item>03pm-04pm</item>
+        <item>04pm-05pm</item>
+        <item>05pm-06pm</item>
+        <item>06pm-07pm</item>
+        <item>07pm-08pm</item>
+        <item>08pm-09pm</item>
+        <item>09pm-10pm</item>
+    </string-array>
+    <string-array name="specialist">
+        <item>Choose Specialist</item>
+        <item>allergist</item>
+        <item>cardiologist</item>
+        <item>dermatologist</item>
+        <item>gynecologist</item>
+        <item>neurologist</item>
+        <item>oncologist</item>
+        <item>pediatrician</item>
+    </string-array>
+</resources>
